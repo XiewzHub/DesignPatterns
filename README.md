@@ -22,4 +22,4 @@
 
 - [策略模式](Strategy)
 
-- [适配器模式](Decorator)
+- [装饰器模式](Decorator)
