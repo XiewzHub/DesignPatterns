@@ -23,3 +23,5 @@
 - [策略模式](Strategy)
 
 - [装饰器模式](Decorator)
+
+- [代理模式](Proxy)
