@@ -10,4 +10,4 @@
 
 ![方法工厂](img/方法工厂模式.png)
 
-[方法工厂代码](src/methodfactory)
+[工厂方法代码](src/methodfactory)
